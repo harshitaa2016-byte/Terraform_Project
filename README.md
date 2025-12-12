@@ -3,13 +3,13 @@
 Terraform configurations for deploying AWS infrastructure.  
 Organized into **serverless** (Lambda, API Gateway, S3) and **server-based** (VPC, ECS/EKS, EC2) deployments.
 
-##Structure
+## Structure
 
 terraform/
 ├── serverless/
-│ └── read.md (for detail information)
+│ └── read.md # for detailed information
 └── server-based/
-└── read.md (for detail information)
+└── read.md # for detailed information
 
 
 1. **Clone the repo**
