@@ -15,6 +15,7 @@ terraform/
 1. **Clone the repo**
    
 git clone https://github.com/harshitaa2016-byte/Terraform_Project.git
+
 cd Terraform_Project/terraform
 
 Choose deployment type
