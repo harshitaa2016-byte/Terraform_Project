@@ -1,3 +1,6 @@
 terraform/
-├── serverless/read.md
-└── server-based/read.md
+├── serverless/
+│ └── read.md # Documentation for serverless deployment
+└── server-based/
+└── read.md # Documentation for server-based deployment
+
