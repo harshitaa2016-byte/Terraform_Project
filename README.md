@@ -7,9 +7,13 @@ Organized into **serverless** (Lambda, API Gateway, S3) and **server-based** (VP
 
 terraform/
 ├── serverless/
-│ └── read.md (for detailed information)
+│  └── read.md (for detailed information)
 └── server-based/
-└── read.md (for detailed information)
+|  └── read.md (for detailed information)
+└── Tiny-app
+   └── read.md (for detailed information)
+
+
 
 
 1. **Clone the repo**
