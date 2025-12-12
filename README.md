@@ -6,12 +6,11 @@ Organized into **serverless** (Lambda, API Gateway, S3) and **server-based** (VP
 ## Structure
 
 terraform/
-|
 ├── serverless/
 │ └── read.md (for detailed information)
 └── server-based/
 └── read.md (for detailed information)
-|
+
 
 1. **Clone the repo**
    
