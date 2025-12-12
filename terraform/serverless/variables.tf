@@ -13,7 +13,7 @@ variable "environment" {
 variable "project_name" {
   description = "Project name"
   type        = string
-  default     = "simple-serverless"
+  default     = "second-serverless"
 }
 
 variable "lambda_runtime" {
